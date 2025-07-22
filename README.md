@@ -5,6 +5,10 @@ Se está desarrollando un sistema de gestión interna para incorporar y modifica
 Desde esta plataforma, los administradores pueden testear, reparar o intervenir en los datos de los jugadores.
 Este sistema funciona como el backend administrativo del juego, desde el cual se gestiona y manipula todo el contenido dinámico de la experiencia de los jugadores.
 
+Los jugadores que quieran colaborar mientras esten abiertas al público estas secciones cuando sea necesaria la incorporación masiva de un tipo, podrán fabricar contenido para el juego desde la plataforma, que será revisado por moderadores para su incorporación directa en el juego (de esta forma seria mucho más facil de incorporar contenido para el proyecto)
+
+Si las peticiones son aceptadas los jugadores recibirán recompensas dentro del juego.
+
 ------------------------------------------------------------------------
 
 Idea Principal del Juego (Más detalles en el archivo del Proyecto):
